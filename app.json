@@ -12,7 +12,7 @@
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "222aaeb2-d106-11ec-9d64-0242ac120002",
+      "value": "208f9661-f728-43c9-be40-0d687c698cc0",
       "required": false
     },
     "WS_PATH": {
